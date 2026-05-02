@@ -120,11 +120,14 @@ Wh- openers become a crutch. "What makes this hard is..." becomes "The constrain
 | Pattern | Fix |
 |---------|-----|
 | Three-item lists | Use two items or one |
+| Perfectly parallel bullet lists | Convert to prose — parallel structure is an AI tell |
 | Questions answered immediately | Let questions breathe or cut them |
 | Every paragraph ends punchily | Vary endings |
 | Em-dashes | Remove. Use commas or periods. No em dashes at all. |
 | Staccato fragmentation | Don't stack short punchy sentences |
 | "Not always. Not perfectly." | Hedging disguised as reassurance |
+
+**Exception for bullet lists:** Bullets are appropriate when the content is genuinely list-like — distinct items that map to different people, scenarios, or steps, where readers are likely to scan and self-identify. The test is whether the parallel structure reflects the shape of the content or is being imposed on prose that would flow better as sentences. A list of consequences each tied to a different role earns its format. A bullet summary of a single argument doesn't.
 
 ## Word Patterns
 
